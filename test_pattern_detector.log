@@ -1,0 +1,505 @@
+2025-11-18 22:10:10,542 - INFO - Test Pattern Detector initialized
+2025-11-18 22:10:10,543 - INFO - Processing 15 test result file(s)...
+2025-11-18 22:10:10,548 - INFO - Parsed 20 test results from sample_data/test_results_run_01.xml
+2025-11-18 22:10:10,549 - INFO - Parsed 20 test results from sample_data/test_results_run_02.xml
+2025-11-18 22:10:10,550 - INFO - Parsed 20 test results from sample_data/test_results_run_03.xml
+2025-11-18 22:10:10,551 - INFO - Parsed 20 test results from sample_data/test_results_run_04.xml
+2025-11-18 22:10:10,552 - INFO - Parsed 20 test results from sample_data/test_results_run_05.xml
+2025-11-18 22:10:10,553 - INFO - Parsed 20 test results from sample_data/test_results_run_06.xml
+2025-11-18 22:10:10,554 - INFO - Parsed 20 test results from sample_data/test_results_run_07.xml
+2025-11-18 22:10:10,554 - INFO - Parsed 20 test results from sample_data/test_results_run_08.xml
+2025-11-18 22:10:10,555 - INFO - Parsed 20 test results from sample_data/test_results_run_09.xml
+2025-11-18 22:10:10,556 - INFO - Parsed 20 test results from sample_data/test_results_run_10.xml
+2025-11-18 22:10:10,557 - INFO - Parsed 20 test results from sample_data/test_results_run_11.xml
+2025-11-18 22:10:10,557 - INFO - Parsed 20 test results from sample_data/test_results_run_12.xml
+2025-11-18 22:10:10,558 - INFO - Parsed 20 test results from sample_data/test_results_run_13.xml
+2025-11-18 22:10:10,559 - INFO - Parsed 20 test results from sample_data/test_results_run_14.xml
+2025-11-18 22:10:10,560 - INFO - Parsed 20 test results from sample_data/test_results_run_15.xml
+2025-11-18 22:10:10,560 - INFO - Processed 20 unique tests
+2025-11-18 22:10:10,560 - INFO - Analyzing test patterns...
+2025-11-18 22:10:10,562 - INFO - Pattern analysis complete
+2025-11-18 22:10:10,563 - INFO - Generating reports...
+2025-11-18 22:10:10,567 - INFO - CSV report generated: output/pattern_report.csv
+2025-11-18 22:10:10,572 - INFO - JSON report generated: output/insights.json
+2025-11-18 22:10:10,574 - INFO - HTML dashboard generated: output/dashboard.html
+2025-11-18 22:10:10,575 - INFO - Test pattern detection completed successfully
+2025-11-18 22:21:35,594 - INFO - Test Pattern Detector initialized
+2025-11-18 22:21:35,594 - INFO - Processing 1 test result file(s)...
+2025-11-18 22:21:35,596 - ERROR - Error parsing XML file sample_test_runs/sample_test_runs.csv: syntax error: line 1, column 0
+2025-11-18 22:21:35,596 - INFO - Processed 0 unique tests
+2025-11-18 22:21:35,596 - INFO - Analyzing test patterns...
+2025-11-18 22:21:35,596 - INFO - Pattern analysis complete
+2025-11-18 22:21:35,596 - INFO - Generating reports...
+2025-11-18 22:21:35,597 - INFO - CSV report generated: output/pattern_report.csv
+2025-11-18 22:21:35,599 - INFO - JSON report generated: output/insights.json
+2025-11-18 22:21:35,601 - INFO - HTML dashboard generated: output/dashboard.html
+2025-11-18 22:21:35,602 - INFO - Test pattern detection completed successfully
+2025-11-18 22:22:41,227 - INFO - Test Pattern Detector initialized
+2025-11-18 22:22:41,228 - INFO - Processing 1 test result file(s)...
+2025-11-18 22:22:41,228 - ERROR - Error parsing XML file sample_test_runs/sample_test_runs.csv: syntax error: line 1, column 0
+2025-11-18 22:22:41,228 - INFO - Processed 0 unique tests
+2025-11-18 22:22:41,229 - INFO - Analyzing test patterns...
+2025-11-18 22:22:41,229 - INFO - Pattern analysis complete
+2025-11-18 22:22:41,229 - INFO - Generating reports...
+2025-11-18 22:22:41,230 - INFO - CSV report generated: output/pattern_report.csv
+2025-11-18 22:22:41,231 - INFO - JSON report generated: output/insights.json
+2025-11-18 22:22:41,232 - INFO - HTML dashboard generated: output/dashboard.html
+2025-11-18 22:22:41,232 - INFO - Test pattern detection completed successfully
+2025-11-19 12:44:42,500 - INFO - Test Pattern Detector initialized
+2025-11-19 12:44:42,501 - INFO - Processing 1 test result file(s)...
+2025-11-19 12:44:42,503 - ERROR - Error parsing XML file sample_test_runs/sample_test_runs.csv: syntax error: line 1, column 0
+2025-11-19 12:44:42,503 - INFO - Processed 0 unique tests
+2025-11-19 12:44:42,503 - INFO - Analyzing test patterns...
+2025-11-19 12:44:42,503 - INFO - Pattern analysis complete
+2025-11-19 12:44:42,503 - INFO - Generating reports...
+2025-11-19 12:44:42,504 - INFO - CSV report generated: output/pattern_report.csv
+2025-11-19 12:44:42,506 - INFO - JSON report generated: output/insights.json
+2025-11-19 12:44:42,507 - INFO - HTML dashboard generated: output/dashboard.html
+2025-11-19 12:44:42,508 - INFO - Test pattern detection completed successfully
+2025-11-19 12:44:54,034 - INFO - Test Pattern Detector initialized
+2025-11-19 12:44:54,034 - INFO - Processing 15 test result file(s)...
+2025-11-19 12:44:54,035 - INFO - Parsed 20 test results from sample_data/test_results_run_01.xml
+2025-11-19 12:44:54,036 - INFO - Parsed 20 test results from sample_data/test_results_run_02.xml
+2025-11-19 12:44:54,037 - INFO - Parsed 20 test results from sample_data/test_results_run_03.xml
+2025-11-19 12:44:54,039 - INFO - Parsed 20 test results from sample_data/test_results_run_04.xml
+2025-11-19 12:44:54,040 - INFO - Parsed 20 test results from sample_data/test_results_run_05.xml
+2025-11-19 12:44:54,041 - INFO - Parsed 20 test results from sample_data/test_results_run_06.xml
+2025-11-19 12:44:54,042 - INFO - Parsed 20 test results from sample_data/test_results_run_07.xml
+2025-11-19 12:44:54,043 - INFO - Parsed 20 test results from sample_data/test_results_run_08.xml
+2025-11-19 12:44:54,044 - INFO - Parsed 20 test results from sample_data/test_results_run_09.xml
+2025-11-19 12:44:54,046 - INFO - Parsed 20 test results from sample_data/test_results_run_10.xml
+2025-11-19 12:44:54,047 - INFO - Parsed 20 test results from sample_data/test_results_run_11.xml
+2025-11-19 12:44:54,049 - INFO - Parsed 20 test results from sample_data/test_results_run_12.xml
+2025-11-19 12:44:54,050 - INFO - Parsed 20 test results from sample_data/test_results_run_13.xml
+2025-11-19 12:44:54,052 - INFO - Parsed 20 test results from sample_data/test_results_run_14.xml
+2025-11-19 12:44:54,053 - INFO - Parsed 20 test results from sample_data/test_results_run_15.xml
+2025-11-19 12:44:54,053 - INFO - Processed 20 unique tests
+2025-11-19 12:44:54,053 - INFO - Analyzing test patterns...
+2025-11-19 12:44:54,055 - INFO - Pattern analysis complete
+2025-11-19 12:44:54,055 - INFO - Generating reports...
+2025-11-19 12:44:54,056 - INFO - CSV report generated: output/pattern_report.csv
+2025-11-19 12:44:54,058 - INFO - JSON report generated: output/insights.json
+2025-11-19 12:44:54,059 - INFO - HTML dashboard generated: output/dashboard.html
+2025-11-19 12:44:54,060 - INFO - Test pattern detection completed successfully
+2025-11-19 13:53:13,133 - INFO - Test Pattern Detector initialized
+2025-11-19 13:53:13,134 - INFO - Processing 15 test result file(s)...
+2025-11-19 13:53:13,136 - INFO - Parsed 20 test results from sample_data/test_results_run_01.xml
+2025-11-19 13:53:13,137 - INFO - Parsed 20 test results from sample_data/test_results_run_02.xml
+2025-11-19 13:53:13,142 - INFO - Parsed 20 test results from sample_data/test_results_run_03.xml
+2025-11-19 13:53:13,143 - INFO - Parsed 20 test results from sample_data/test_results_run_04.xml
+2025-11-19 13:53:13,145 - INFO - Parsed 20 test results from sample_data/test_results_run_05.xml
+2025-11-19 13:53:13,146 - INFO - Parsed 20 test results from sample_data/test_results_run_06.xml
+2025-11-19 13:53:13,147 - INFO - Parsed 20 test results from sample_data/test_results_run_07.xml
+2025-11-19 13:53:13,148 - INFO - Parsed 20 test results from sample_data/test_results_run_08.xml
+2025-11-19 13:53:13,149 - INFO - Parsed 20 test results from sample_data/test_results_run_09.xml
+2025-11-19 13:53:13,151 - INFO - Parsed 20 test results from sample_data/test_results_run_10.xml
+2025-11-19 13:53:13,152 - INFO - Parsed 20 test results from sample_data/test_results_run_11.xml
+2025-11-19 13:53:13,153 - INFO - Parsed 20 test results from sample_data/test_results_run_12.xml
+2025-11-19 13:53:13,155 - INFO - Parsed 20 test results from sample_data/test_results_run_13.xml
+2025-11-19 13:53:13,156 - INFO - Parsed 20 test results from sample_data/test_results_run_14.xml
+2025-11-19 13:53:13,157 - INFO - Parsed 20 test results from sample_data/test_results_run_15.xml
+2025-11-19 13:53:13,157 - INFO - Processed 20 unique tests
+2025-11-19 13:53:13,157 - INFO - Analyzing test patterns...
+2025-11-19 13:53:13,160 - INFO - Pattern analysis complete
+2025-11-19 13:53:13,161 - INFO - Generating reports...
+2025-11-19 13:53:13,164 - INFO - CSV report generated: output/pattern_report.csv
+2025-11-19 13:53:13,167 - INFO - JSON report generated: output/insights.json
+2025-11-19 13:53:13,169 - INFO - HTML dashboard generated: output/dashboard.html
+2025-11-19 13:53:13,169 - INFO - Test pattern detection completed successfully
+2025-11-19 15:45:51,111 - INFO - Test Pattern Detector initialized
+2025-11-19 15:45:51,111 - INFO - Processing 15 test result file(s)...
+2025-11-19 15:45:51,113 - INFO - Parsed 20 test results from sample_data/test_results_run_01.xml
+2025-11-19 15:45:51,114 - INFO - Parsed 20 test results from sample_data/test_results_run_02.xml
+2025-11-19 15:45:51,115 - INFO - Parsed 20 test results from sample_data/test_results_run_03.xml
+2025-11-19 15:45:51,116 - INFO - Parsed 20 test results from sample_data/test_results_run_04.xml
+2025-11-19 15:45:51,117 - INFO - Parsed 20 test results from sample_data/test_results_run_05.xml
+2025-11-19 15:45:51,118 - INFO - Parsed 20 test results from sample_data/test_results_run_06.xml
+2025-11-19 15:45:51,118 - INFO - Parsed 20 test results from sample_data/test_results_run_07.xml
+2025-11-19 15:45:51,119 - INFO - Parsed 20 test results from sample_data/test_results_run_08.xml
+2025-11-19 15:45:51,120 - INFO - Parsed 20 test results from sample_data/test_results_run_09.xml
+2025-11-19 15:45:51,121 - INFO - Parsed 20 test results from sample_data/test_results_run_10.xml
+2025-11-19 15:45:51,121 - INFO - Parsed 20 test results from sample_data/test_results_run_11.xml
+2025-11-19 15:45:51,122 - INFO - Parsed 20 test results from sample_data/test_results_run_12.xml
+2025-11-19 15:45:51,123 - INFO - Parsed 20 test results from sample_data/test_results_run_13.xml
+2025-11-19 15:45:51,123 - INFO - Parsed 20 test results from sample_data/test_results_run_14.xml
+2025-11-19 15:45:51,124 - INFO - Parsed 20 test results from sample_data/test_results_run_15.xml
+2025-11-19 15:45:51,124 - INFO - Processed 20 unique tests
+2025-11-19 15:45:51,124 - INFO - Analyzing test patterns...
+2025-11-19 15:45:51,126 - INFO - Pattern analysis complete
+2025-11-19 15:45:51,126 - INFO - Generating reports...
+2025-11-19 15:45:51,128 - INFO - CSV report generated: output/pattern_report.csv
+2025-11-19 15:45:51,131 - INFO - JSON report generated: output/insights.json
+2025-11-19 15:45:51,132 - INFO - HTML dashboard generated: output/dashboard.html
+2025-11-19 15:45:51,132 - INFO - Test pattern detection completed successfully
+2025-11-19 15:49:37,131 - INFO - Test Pattern Detector initialized
+2025-11-19 15:49:37,132 - INFO - Processing 1 test result file(s)...
+2025-11-19 15:49:37,132 - WARNING - File not found: **/*.xml
+2025-11-19 15:49:37,132 - INFO - Processed 0 unique tests
+2025-11-19 15:49:37,132 - INFO - Analyzing test patterns...
+2025-11-19 15:49:37,132 - INFO - Pattern analysis complete
+2025-11-19 15:49:37,133 - INFO - Generating reports...
+2025-11-19 15:49:37,133 - INFO - CSV report generated: output/pattern_report.csv
+2025-11-19 15:49:37,134 - INFO - JSON report generated: output/insights.json
+2025-11-19 15:49:37,135 - INFO - HTML dashboard generated: output/dashboard.html
+2025-11-19 15:49:37,135 - INFO - Test pattern detection completed successfully
+2025-11-19 16:03:49,977 - INFO - Test Pattern Detector initialized
+2025-11-19 16:03:49,977 - INFO - Processing 15 test result file(s)...
+2025-11-19 16:03:49,980 - INFO - Parsed 20 test results from sample_data/test_results_run_01.xml
+2025-11-19 16:03:49,982 - INFO - Parsed 20 test results from sample_data/test_results_run_02.xml
+2025-11-19 16:03:49,982 - INFO - Parsed 20 test results from sample_data/test_results_run_03.xml
+2025-11-19 16:03:49,983 - INFO - Parsed 20 test results from sample_data/test_results_run_04.xml
+2025-11-19 16:03:49,984 - INFO - Parsed 20 test results from sample_data/test_results_run_05.xml
+2025-11-19 16:03:49,985 - INFO - Parsed 20 test results from sample_data/test_results_run_06.xml
+2025-11-19 16:03:49,986 - INFO - Parsed 20 test results from sample_data/test_results_run_07.xml
+2025-11-19 16:03:49,987 - INFO - Parsed 20 test results from sample_data/test_results_run_08.xml
+2025-11-19 16:03:49,988 - INFO - Parsed 20 test results from sample_data/test_results_run_09.xml
+2025-11-19 16:03:49,989 - INFO - Parsed 20 test results from sample_data/test_results_run_10.xml
+2025-11-19 16:03:49,991 - INFO - Parsed 20 test results from sample_data/test_results_run_11.xml
+2025-11-19 16:03:49,992 - INFO - Parsed 20 test results from sample_data/test_results_run_12.xml
+2025-11-19 16:03:49,993 - INFO - Parsed 20 test results from sample_data/test_results_run_13.xml
+2025-11-19 16:03:49,994 - INFO - Parsed 20 test results from sample_data/test_results_run_14.xml
+2025-11-19 16:03:49,996 - INFO - Parsed 20 test results from sample_data/test_results_run_15.xml
+2025-11-19 16:03:49,996 - INFO - Processed 20 unique tests
+2025-11-19 16:03:49,996 - INFO - Analyzing test patterns...
+2025-11-19 16:03:49,997 - INFO - Pattern analysis complete
+2025-11-19 16:03:49,998 - INFO - Generating reports...
+2025-11-19 16:03:49,999 - INFO - CSV report generated: output/pattern_report.csv
+2025-11-19 16:03:50,001 - INFO - JSON report generated: output/insights.json
+2025-11-19 16:03:50,003 - INFO - HTML dashboard generated: output/dashboard.html
+2025-11-19 16:03:50,003 - INFO - Test pattern detection completed successfully
+2025-11-19 16:22:30,506 - INFO - Test Pattern Detector initialized
+2025-11-19 16:22:30,507 - INFO - Processing 15 test result file(s)...
+2025-11-19 16:22:30,509 - INFO - Parsed 20 test results from sample_data/test_results_run_01.xml
+2025-11-19 16:22:30,510 - INFO - Parsed 20 test results from sample_data/test_results_run_02.xml
+2025-11-19 16:22:30,511 - INFO - Parsed 20 test results from sample_data/test_results_run_03.xml
+2025-11-19 16:22:30,512 - INFO - Parsed 20 test results from sample_data/test_results_run_04.xml
+2025-11-19 16:22:30,512 - INFO - Parsed 20 test results from sample_data/test_results_run_05.xml
+2025-11-19 16:22:30,513 - INFO - Parsed 20 test results from sample_data/test_results_run_06.xml
+2025-11-19 16:22:30,514 - INFO - Parsed 20 test results from sample_data/test_results_run_07.xml
+2025-11-19 16:22:30,515 - INFO - Parsed 20 test results from sample_data/test_results_run_08.xml
+2025-11-19 16:22:30,516 - INFO - Parsed 20 test results from sample_data/test_results_run_09.xml
+2025-11-19 16:22:30,516 - INFO - Parsed 20 test results from sample_data/test_results_run_10.xml
+2025-11-19 16:22:30,517 - INFO - Parsed 20 test results from sample_data/test_results_run_11.xml
+2025-11-19 16:22:30,518 - INFO - Parsed 20 test results from sample_data/test_results_run_12.xml
+2025-11-19 16:22:30,519 - INFO - Parsed 20 test results from sample_data/test_results_run_13.xml
+2025-11-19 16:22:30,520 - INFO - Parsed 20 test results from sample_data/test_results_run_14.xml
+2025-11-19 16:22:30,521 - INFO - Parsed 20 test results from sample_data/test_results_run_15.xml
+2025-11-19 16:22:30,521 - INFO - Processed 20 unique tests
+2025-11-19 16:22:30,521 - INFO - Analyzing test patterns...
+2025-11-19 16:22:30,523 - INFO - Pattern analysis complete
+2025-11-19 16:22:30,523 - INFO - Generating reports...
+2025-11-19 16:22:30,524 - INFO - CSV report generated: output/pattern_report.csv
+2025-11-19 16:22:30,526 - INFO - JSON report generated: output/insights.json
+2025-11-19 16:22:30,528 - INFO - HTML dashboard generated: output/dashboard.html
+2025-11-19 16:22:30,528 - INFO - Test pattern detection completed successfully
+2025-11-19 16:31:40,759 - INFO - Test Pattern Detector initialized
+2025-11-19 16:31:40,760 - INFO - Processing 20 test result file(s)...
+2025-11-19 16:31:40,763 - INFO - Parsed 120 test results from sample_data/test_results_run_01.xml
+2025-11-19 16:31:40,765 - INFO - Parsed 120 test results from sample_data/test_results_run_02.xml
+2025-11-19 16:31:40,768 - INFO - Parsed 120 test results from sample_data/test_results_run_03.xml
+2025-11-19 16:31:40,769 - INFO - Parsed 120 test results from sample_data/test_results_run_04.xml
+2025-11-19 16:31:40,772 - INFO - Parsed 120 test results from sample_data/test_results_run_05.xml
+2025-11-19 16:31:40,774 - INFO - Parsed 120 test results from sample_data/test_results_run_06.xml
+2025-11-19 16:31:40,775 - INFO - Parsed 120 test results from sample_data/test_results_run_07.xml
+2025-11-19 16:31:40,777 - INFO - Parsed 120 test results from sample_data/test_results_run_08.xml
+2025-11-19 16:31:40,779 - INFO - Parsed 120 test results from sample_data/test_results_run_09.xml
+2025-11-19 16:31:40,781 - INFO - Parsed 120 test results from sample_data/test_results_run_10.xml
+2025-11-19 16:31:40,783 - INFO - Parsed 120 test results from sample_data/test_results_run_11.xml
+2025-11-19 16:31:40,786 - INFO - Parsed 120 test results from sample_data/test_results_run_12.xml
+2025-11-19 16:31:40,788 - INFO - Parsed 120 test results from sample_data/test_results_run_13.xml
+2025-11-19 16:31:40,790 - INFO - Parsed 120 test results from sample_data/test_results_run_14.xml
+2025-11-19 16:31:40,792 - INFO - Parsed 120 test results from sample_data/test_results_run_15.xml
+2025-11-19 16:31:40,794 - INFO - Parsed 120 test results from sample_data/test_results_run_16.xml
+2025-11-19 16:31:40,797 - INFO - Parsed 120 test results from sample_data/test_results_run_17.xml
+2025-11-19 16:31:40,799 - INFO - Parsed 120 test results from sample_data/test_results_run_18.xml
+2025-11-19 16:31:40,801 - INFO - Parsed 120 test results from sample_data/test_results_run_19.xml
+2025-11-19 16:31:40,803 - INFO - Parsed 120 test results from sample_data/test_results_run_20.xml
+2025-11-19 16:31:40,804 - INFO - Processed 120 unique tests
+2025-11-19 16:31:40,804 - INFO - Analyzing test patterns...
+2025-11-19 16:31:40,813 - INFO - Pattern analysis complete
+2025-11-19 16:31:40,813 - INFO - Generating reports...
+2025-11-19 16:31:40,816 - INFO - CSV report generated: output/pattern_report.csv
+2025-11-19 16:31:40,821 - INFO - JSON report generated: output/insights.json
+2025-11-19 16:31:40,823 - INFO - HTML dashboard generated: output/dashboard.html
+2025-11-19 16:31:40,823 - INFO - Test pattern detection completed successfully
+2025-11-19 16:37:57,926 - INFO - Test Pattern Detector initialized
+2025-11-19 16:37:57,927 - INFO - Processing 20 test result file(s)...
+2025-11-19 16:37:57,930 - INFO - Parsed 120 test results from sample_data/test_results_run_01.xml
+2025-11-19 16:37:57,932 - INFO - Parsed 120 test results from sample_data/test_results_run_02.xml
+2025-11-19 16:37:57,934 - INFO - Parsed 120 test results from sample_data/test_results_run_03.xml
+2025-11-19 16:37:57,936 - INFO - Parsed 120 test results from sample_data/test_results_run_04.xml
+2025-11-19 16:37:57,938 - INFO - Parsed 120 test results from sample_data/test_results_run_05.xml
+2025-11-19 16:37:57,940 - INFO - Parsed 120 test results from sample_data/test_results_run_06.xml
+2025-11-19 16:37:57,942 - INFO - Parsed 120 test results from sample_data/test_results_run_07.xml
+2025-11-19 16:37:57,944 - INFO - Parsed 120 test results from sample_data/test_results_run_08.xml
+2025-11-19 16:37:57,947 - INFO - Parsed 120 test results from sample_data/test_results_run_09.xml
+2025-11-19 16:37:57,949 - INFO - Parsed 120 test results from sample_data/test_results_run_10.xml
+2025-11-19 16:37:57,951 - INFO - Parsed 120 test results from sample_data/test_results_run_11.xml
+2025-11-19 16:37:57,953 - INFO - Parsed 120 test results from sample_data/test_results_run_12.xml
+2025-11-19 16:37:57,955 - INFO - Parsed 120 test results from sample_data/test_results_run_13.xml
+2025-11-19 16:37:57,957 - INFO - Parsed 120 test results from sample_data/test_results_run_14.xml
+2025-11-19 16:37:57,959 - INFO - Parsed 120 test results from sample_data/test_results_run_15.xml
+2025-11-19 16:37:57,961 - INFO - Parsed 120 test results from sample_data/test_results_run_16.xml
+2025-11-19 16:37:57,963 - INFO - Parsed 120 test results from sample_data/test_results_run_17.xml
+2025-11-19 16:37:57,966 - INFO - Parsed 120 test results from sample_data/test_results_run_18.xml
+2025-11-19 16:37:57,967 - INFO - Parsed 120 test results from sample_data/test_results_run_19.xml
+2025-11-19 16:37:57,969 - INFO - Parsed 120 test results from sample_data/test_results_run_20.xml
+2025-11-19 16:37:57,969 - INFO - Processed 120 unique tests
+2025-11-19 16:37:57,969 - INFO - Analyzing test patterns...
+2025-11-19 16:37:57,978 - INFO - Pattern analysis complete
+2025-11-19 16:37:57,979 - INFO - Generating reports...
+2025-11-19 16:37:57,982 - INFO - CSV report generated: output/pattern_report.csv
+2025-11-19 16:37:57,988 - INFO - JSON report generated: output/insights.json
+2025-11-19 16:37:57,991 - INFO - HTML dashboard generated: output/dashboard.html
+2025-11-19 16:37:57,991 - INFO - Test pattern detection completed successfully
+2025-11-19 16:48:10,775 - INFO - Test Pattern Detector initialized
+2025-11-19 16:48:10,775 - INFO - Processing 20 test result file(s)...
+2025-11-19 16:48:10,779 - INFO - Parsed 120 test results from sample_data/test_results_run_01.xml
+2025-11-19 16:48:10,781 - INFO - Parsed 120 test results from sample_data/test_results_run_02.xml
+2025-11-19 16:48:10,783 - INFO - Parsed 120 test results from sample_data/test_results_run_03.xml
+2025-11-19 16:48:10,785 - INFO - Parsed 120 test results from sample_data/test_results_run_04.xml
+2025-11-19 16:48:10,787 - INFO - Parsed 120 test results from sample_data/test_results_run_05.xml
+2025-11-19 16:48:10,789 - INFO - Parsed 120 test results from sample_data/test_results_run_06.xml
+2025-11-19 16:48:10,791 - INFO - Parsed 120 test results from sample_data/test_results_run_07.xml
+2025-11-19 16:48:10,794 - INFO - Parsed 120 test results from sample_data/test_results_run_08.xml
+2025-11-19 16:48:10,796 - INFO - Parsed 120 test results from sample_data/test_results_run_09.xml
+2025-11-19 16:48:10,797 - INFO - Parsed 120 test results from sample_data/test_results_run_10.xml
+2025-11-19 16:48:10,798 - INFO - Parsed 120 test results from sample_data/test_results_run_11.xml
+2025-11-19 16:48:10,801 - INFO - Parsed 120 test results from sample_data/test_results_run_12.xml
+2025-11-19 16:48:10,804 - INFO - Parsed 120 test results from sample_data/test_results_run_13.xml
+2025-11-19 16:48:10,806 - INFO - Parsed 120 test results from sample_data/test_results_run_14.xml
+2025-11-19 16:48:10,807 - INFO - Parsed 120 test results from sample_data/test_results_run_15.xml
+2025-11-19 16:48:10,810 - INFO - Parsed 120 test results from sample_data/test_results_run_16.xml
+2025-11-19 16:48:10,812 - INFO - Parsed 120 test results from sample_data/test_results_run_17.xml
+2025-11-19 16:48:10,814 - INFO - Parsed 120 test results from sample_data/test_results_run_18.xml
+2025-11-19 16:48:10,816 - INFO - Parsed 120 test results from sample_data/test_results_run_19.xml
+2025-11-19 16:48:10,819 - INFO - Parsed 120 test results from sample_data/test_results_run_20.xml
+2025-11-19 16:48:10,819 - INFO - Processed 120 unique tests
+2025-11-19 16:48:10,819 - INFO - Analyzing test patterns...
+2025-11-19 16:48:10,827 - INFO - Pattern analysis complete
+2025-11-19 16:48:10,827 - INFO - Generating reports...
+2025-11-19 16:48:10,829 - INFO - CSV report generated: output/pattern_report.csv
+2025-11-19 16:48:10,835 - INFO - JSON report generated: output/insights.json
+2025-11-19 16:48:10,836 - ERROR - Fatal error: unhashable type: 'dict'
+Traceback (most recent call last):
+  File "/Users/mac-obs-29/PycharmProjects/TestPatternDetector/detector_v2.py", line 833, in <module>
+    sys.exit(main())
+  File "/Users/mac-obs-29/PycharmProjects/TestPatternDetector/detector_v2.py", line 799, in main
+    reports = detector.generate_reports()
+  File "/Users/mac-obs-29/PycharmProjects/TestPatternDetector/detector_v2.py", line 722, in generate_reports
+    reports['html'] = self.generate_html_dashboard()
+  File "/Users/mac-obs-29/PycharmProjects/TestPatternDetector/detector_v2.py", line 612, in generate_html_dashboard
+    all_tests_sorted = sorted(
+  File "/Users/mac-obs-29/PycharmProjects/TestPatternDetector/detector_v2.py", line 615, in <lambda>
+    {{'Consistently Failing': 0, 'Flaky': 1, 'Mostly Failing': 2,
+TypeError: unhashable type: 'dict'
+2025-11-19 16:50:43,147 - INFO - Test Pattern Detector initialized
+2025-11-19 16:50:43,148 - INFO - Processing 20 test result file(s)...
+2025-11-19 16:50:43,150 - INFO - Parsed 120 test results from sample_data/test_results_run_01.xml
+2025-11-19 16:50:43,151 - INFO - Parsed 120 test results from sample_data/test_results_run_02.xml
+2025-11-19 16:50:43,153 - INFO - Parsed 120 test results from sample_data/test_results_run_03.xml
+2025-11-19 16:50:43,155 - INFO - Parsed 120 test results from sample_data/test_results_run_04.xml
+2025-11-19 16:50:43,157 - INFO - Parsed 120 test results from sample_data/test_results_run_05.xml
+2025-11-19 16:50:43,160 - INFO - Parsed 120 test results from sample_data/test_results_run_06.xml
+2025-11-19 16:50:43,162 - INFO - Parsed 120 test results from sample_data/test_results_run_07.xml
+2025-11-19 16:50:43,164 - INFO - Parsed 120 test results from sample_data/test_results_run_08.xml
+2025-11-19 16:50:43,166 - INFO - Parsed 120 test results from sample_data/test_results_run_09.xml
+2025-11-19 16:50:43,167 - INFO - Parsed 120 test results from sample_data/test_results_run_10.xml
+2025-11-19 16:50:43,169 - INFO - Parsed 120 test results from sample_data/test_results_run_11.xml
+2025-11-19 16:50:43,172 - INFO - Parsed 120 test results from sample_data/test_results_run_12.xml
+2025-11-19 16:50:43,174 - INFO - Parsed 120 test results from sample_data/test_results_run_13.xml
+2025-11-19 16:50:43,176 - INFO - Parsed 120 test results from sample_data/test_results_run_14.xml
+2025-11-19 16:50:43,177 - INFO - Parsed 120 test results from sample_data/test_results_run_15.xml
+2025-11-19 16:50:43,179 - INFO - Parsed 120 test results from sample_data/test_results_run_16.xml
+2025-11-19 16:50:43,181 - INFO - Parsed 120 test results from sample_data/test_results_run_17.xml
+2025-11-19 16:50:43,183 - INFO - Parsed 120 test results from sample_data/test_results_run_18.xml
+2025-11-19 16:50:43,185 - INFO - Parsed 120 test results from sample_data/test_results_run_19.xml
+2025-11-19 16:50:43,187 - INFO - Parsed 120 test results from sample_data/test_results_run_20.xml
+2025-11-19 16:50:43,188 - INFO - Processed 120 unique tests
+2025-11-19 16:50:43,188 - INFO - Analyzing test patterns...
+2025-11-19 16:50:43,197 - INFO - Pattern analysis complete
+2025-11-19 16:50:43,198 - INFO - Generating reports...
+2025-11-19 16:50:43,200 - INFO - CSV report generated: output/pattern_report.csv
+2025-11-19 16:50:43,205 - INFO - JSON report generated: output/insights.json
+2025-11-19 16:50:43,206 - INFO - HTML dashboard generated: output/dashboard.html
+2025-11-19 16:50:43,207 - INFO - Test pattern detection completed successfully
+2025-11-19 17:03:40,661 - INFO - Test Pattern Detector initialized
+2025-11-19 17:03:40,662 - INFO - Processing 20 test result file(s)...
+2025-11-19 17:03:40,666 - INFO - Parsed 120 test results from sample_data/test_results_run_01.xml
+2025-11-19 17:03:40,668 - INFO - Parsed 120 test results from sample_data/test_results_run_02.xml
+2025-11-19 17:03:40,670 - INFO - Parsed 120 test results from sample_data/test_results_run_03.xml
+2025-11-19 17:03:40,673 - INFO - Parsed 120 test results from sample_data/test_results_run_04.xml
+2025-11-19 17:03:40,675 - INFO - Parsed 120 test results from sample_data/test_results_run_05.xml
+2025-11-19 17:03:40,677 - INFO - Parsed 120 test results from sample_data/test_results_run_06.xml
+2025-11-19 17:03:40,678 - INFO - Parsed 120 test results from sample_data/test_results_run_07.xml
+2025-11-19 17:03:40,680 - INFO - Parsed 120 test results from sample_data/test_results_run_08.xml
+2025-11-19 17:03:40,683 - INFO - Parsed 120 test results from sample_data/test_results_run_09.xml
+2025-11-19 17:03:40,685 - INFO - Parsed 120 test results from sample_data/test_results_run_10.xml
+2025-11-19 17:03:40,686 - INFO - Parsed 120 test results from sample_data/test_results_run_11.xml
+2025-11-19 17:03:40,688 - INFO - Parsed 120 test results from sample_data/test_results_run_12.xml
+2025-11-19 17:03:40,690 - INFO - Parsed 120 test results from sample_data/test_results_run_13.xml
+2025-11-19 17:03:40,691 - INFO - Parsed 120 test results from sample_data/test_results_run_14.xml
+2025-11-19 17:03:40,693 - INFO - Parsed 120 test results from sample_data/test_results_run_15.xml
+2025-11-19 17:03:40,696 - INFO - Parsed 120 test results from sample_data/test_results_run_16.xml
+2025-11-19 17:03:40,699 - INFO - Parsed 120 test results from sample_data/test_results_run_17.xml
+2025-11-19 17:03:40,701 - INFO - Parsed 120 test results from sample_data/test_results_run_18.xml
+2025-11-19 17:03:40,703 - INFO - Parsed 120 test results from sample_data/test_results_run_19.xml
+2025-11-19 17:03:40,705 - INFO - Parsed 120 test results from sample_data/test_results_run_20.xml
+2025-11-19 17:03:40,705 - INFO - Processed 120 unique tests
+2025-11-19 17:03:40,705 - INFO - Analyzing test patterns...
+2025-11-19 17:03:40,712 - INFO - Pattern analysis complete
+2025-11-19 17:03:40,712 - INFO - Generating enhanced reports...
+2025-11-19 17:03:40,716 - INFO - CSV report generated: output/pattern_report.csv
+2025-11-19 17:03:40,721 - INFO - JSON report generated: output/insights.json
+2025-11-19 17:03:40,724 - INFO - Enhanced HTML dashboard generated: output/dashboard.html
+2025-11-19 17:03:40,725 - INFO - Test pattern detection completed successfully
+2025-11-20 13:12:13,968 - INFO - Test Pattern Detector initialized
+2025-11-20 13:12:13,968 - INFO - Processing 20 test result file(s)...
+2025-11-20 13:12:13,970 - INFO - Parsed 20 test results from sample_data/test_results_run_01.xml
+2025-11-20 13:12:13,971 - INFO - Parsed 20 test results from sample_data/test_results_run_02.xml
+2025-11-20 13:12:13,971 - INFO - Parsed 20 test results from sample_data/test_results_run_03.xml
+2025-11-20 13:12:13,972 - INFO - Parsed 20 test results from sample_data/test_results_run_04.xml
+2025-11-20 13:12:13,973 - INFO - Parsed 20 test results from sample_data/test_results_run_05.xml
+2025-11-20 13:12:13,973 - INFO - Parsed 20 test results from sample_data/test_results_run_06.xml
+2025-11-20 13:12:13,974 - INFO - Parsed 20 test results from sample_data/test_results_run_07.xml
+2025-11-20 13:12:13,975 - INFO - Parsed 20 test results from sample_data/test_results_run_08.xml
+2025-11-20 13:12:13,975 - INFO - Parsed 20 test results from sample_data/test_results_run_09.xml
+2025-11-20 13:12:13,976 - INFO - Parsed 20 test results from sample_data/test_results_run_10.xml
+2025-11-20 13:12:13,976 - INFO - Parsed 20 test results from sample_data/test_results_run_11.xml
+2025-11-20 13:12:13,977 - INFO - Parsed 20 test results from sample_data/test_results_run_12.xml
+2025-11-20 13:12:13,977 - INFO - Parsed 20 test results from sample_data/test_results_run_13.xml
+2025-11-20 13:12:13,978 - INFO - Parsed 20 test results from sample_data/test_results_run_14.xml
+2025-11-20 13:12:13,979 - INFO - Parsed 20 test results from sample_data/test_results_run_15.xml
+2025-11-20 13:12:13,981 - INFO - Parsed 120 test results from sample_data/test_results_run_16.xml
+2025-11-20 13:12:13,984 - INFO - Parsed 120 test results from sample_data/test_results_run_17.xml
+2025-11-20 13:12:13,987 - INFO - Parsed 120 test results from sample_data/test_results_run_18.xml
+2025-11-20 13:12:13,989 - INFO - Parsed 120 test results from sample_data/test_results_run_19.xml
+2025-11-20 13:12:13,991 - INFO - Parsed 120 test results from sample_data/test_results_run_20.xml
+2025-11-20 13:12:13,992 - INFO - Processed 132 unique tests
+2025-11-20 13:12:13,992 - INFO - Analyzing test patterns...
+2025-11-20 13:12:13,998 - INFO - Pattern analysis complete
+2025-11-20 13:12:13,998 - INFO - Generating reports...
+2025-11-20 13:12:14,001 - INFO - CSV report generated: output/pattern_report.csv
+2025-11-20 13:12:14,007 - INFO - JSON report generated: output/insights.json
+2025-11-20 13:12:14,009 - INFO - HTML dashboard generated: output/dashboard.html
+2025-11-20 13:12:14,009 - INFO - Test pattern detection completed successfully
+2025-11-20 13:13:03,759 - INFO - Test Pattern Detector initialized
+2025-11-20 13:13:03,760 - INFO - Processing 20 test result file(s)...
+2025-11-20 13:13:03,760 - INFO - Parsed 20 test results from sample_data/test_results_run_01.xml
+2025-11-20 13:13:03,761 - INFO - Parsed 20 test results from sample_data/test_results_run_02.xml
+2025-11-20 13:13:03,762 - INFO - Parsed 20 test results from sample_data/test_results_run_03.xml
+2025-11-20 13:13:03,763 - INFO - Parsed 20 test results from sample_data/test_results_run_04.xml
+2025-11-20 13:13:03,764 - INFO - Parsed 20 test results from sample_data/test_results_run_05.xml
+2025-11-20 13:13:03,765 - INFO - Parsed 20 test results from sample_data/test_results_run_06.xml
+2025-11-20 13:13:03,766 - INFO - Parsed 20 test results from sample_data/test_results_run_07.xml
+2025-11-20 13:13:03,767 - INFO - Parsed 20 test results from sample_data/test_results_run_08.xml
+2025-11-20 13:13:03,767 - INFO - Parsed 20 test results from sample_data/test_results_run_09.xml
+2025-11-20 13:13:03,768 - INFO - Parsed 20 test results from sample_data/test_results_run_10.xml
+2025-11-20 13:13:03,769 - INFO - Parsed 20 test results from sample_data/test_results_run_11.xml
+2025-11-20 13:13:03,770 - INFO - Parsed 20 test results from sample_data/test_results_run_12.xml
+2025-11-20 13:13:03,771 - INFO - Parsed 20 test results from sample_data/test_results_run_13.xml
+2025-11-20 13:13:03,772 - INFO - Parsed 20 test results from sample_data/test_results_run_14.xml
+2025-11-20 13:13:03,773 - INFO - Parsed 20 test results from sample_data/test_results_run_15.xml
+2025-11-20 13:13:03,775 - INFO - Parsed 120 test results from sample_data/test_results_run_16.xml
+2025-11-20 13:13:03,777 - INFO - Parsed 120 test results from sample_data/test_results_run_17.xml
+2025-11-20 13:13:03,779 - INFO - Parsed 120 test results from sample_data/test_results_run_18.xml
+2025-11-20 13:13:03,781 - INFO - Parsed 120 test results from sample_data/test_results_run_19.xml
+2025-11-20 13:13:03,783 - INFO - Parsed 120 test results from sample_data/test_results_run_20.xml
+2025-11-20 13:13:03,784 - INFO - Processed 132 unique tests
+2025-11-20 13:13:03,784 - INFO - Analyzing test patterns...
+2025-11-20 13:13:03,789 - INFO - Pattern analysis complete
+2025-11-20 13:13:03,790 - INFO - Generating reports...
+2025-11-20 13:13:03,793 - INFO - CSV report generated: output/pattern_report.csv
+2025-11-20 13:13:03,798 - INFO - JSON report generated: output/insights.json
+2025-11-20 13:13:03,800 - INFO - HTML dashboard generated: output/dashboard.html
+2025-11-20 13:13:03,800 - INFO - Test pattern detection completed successfully
+2025-11-20 13:17:27,485 - INFO - Test Pattern Detector initialized
+2025-11-20 13:17:27,486 - INFO - Processing 20 test result file(s)...
+2025-11-20 13:17:27,487 - INFO - Parsed 20 test results from sample_data/test_results_run_01.xml
+2025-11-20 13:17:27,488 - INFO - Parsed 20 test results from sample_data/test_results_run_02.xml
+2025-11-20 13:17:27,489 - INFO - Parsed 20 test results from sample_data/test_results_run_03.xml
+2025-11-20 13:17:27,489 - INFO - Parsed 20 test results from sample_data/test_results_run_04.xml
+2025-11-20 13:17:27,490 - INFO - Parsed 20 test results from sample_data/test_results_run_05.xml
+2025-11-20 13:17:27,491 - INFO - Parsed 20 test results from sample_data/test_results_run_06.xml
+2025-11-20 13:17:27,492 - INFO - Parsed 20 test results from sample_data/test_results_run_07.xml
+2025-11-20 13:17:27,493 - INFO - Parsed 20 test results from sample_data/test_results_run_08.xml
+2025-11-20 13:17:27,494 - INFO - Parsed 20 test results from sample_data/test_results_run_09.xml
+2025-11-20 13:17:27,495 - INFO - Parsed 20 test results from sample_data/test_results_run_10.xml
+2025-11-20 13:17:27,496 - INFO - Parsed 20 test results from sample_data/test_results_run_11.xml
+2025-11-20 13:17:27,497 - INFO - Parsed 20 test results from sample_data/test_results_run_12.xml
+2025-11-20 13:17:27,498 - INFO - Parsed 20 test results from sample_data/test_results_run_13.xml
+2025-11-20 13:17:27,499 - INFO - Parsed 20 test results from sample_data/test_results_run_14.xml
+2025-11-20 13:17:27,500 - INFO - Parsed 20 test results from sample_data/test_results_run_15.xml
+2025-11-20 13:17:27,502 - INFO - Parsed 120 test results from sample_data/test_results_run_16.xml
+2025-11-20 13:17:27,504 - INFO - Parsed 120 test results from sample_data/test_results_run_17.xml
+2025-11-20 13:17:27,506 - INFO - Parsed 120 test results from sample_data/test_results_run_18.xml
+2025-11-20 13:17:27,508 - INFO - Parsed 120 test results from sample_data/test_results_run_19.xml
+2025-11-20 13:17:27,511 - INFO - Parsed 120 test results from sample_data/test_results_run_20.xml
+2025-11-20 13:17:27,511 - INFO - Processed 132 unique tests
+2025-11-20 13:17:27,511 - INFO - Analyzing test patterns...
+2025-11-20 13:17:27,516 - INFO - Pattern analysis complete
+2025-11-20 13:17:27,516 - INFO - Generating reports...
+2025-11-20 13:17:27,520 - INFO - CSV report generated: output/pattern_report.csv
+2025-11-20 13:17:27,525 - INFO - JSON report generated: output/insights.json
+2025-11-20 13:17:27,527 - INFO - HTML dashboard generated: output/dashboard.html
+2025-11-20 13:17:27,527 - INFO - Test pattern detection completed successfully
+2025-11-20 13:18:50,200 - INFO - Test Pattern Detector initialized
+2025-11-20 13:18:50,201 - INFO - Processing 20 test result file(s)...
+2025-11-20 13:18:50,203 - INFO - Parsed 120 test results from sample_data/test_results_run_01.xml
+2025-11-20 13:18:50,205 - INFO - Parsed 120 test results from sample_data/test_results_run_02.xml
+2025-11-20 13:18:50,208 - INFO - Parsed 120 test results from sample_data/test_results_run_03.xml
+2025-11-20 13:18:50,209 - INFO - Parsed 120 test results from sample_data/test_results_run_04.xml
+2025-11-20 13:18:50,211 - INFO - Parsed 120 test results from sample_data/test_results_run_05.xml
+2025-11-20 13:18:50,214 - INFO - Parsed 120 test results from sample_data/test_results_run_06.xml
+2025-11-20 13:18:50,217 - INFO - Parsed 120 test results from sample_data/test_results_run_07.xml
+2025-11-20 13:18:50,220 - INFO - Parsed 120 test results from sample_data/test_results_run_08.xml
+2025-11-20 13:18:50,222 - INFO - Parsed 120 test results from sample_data/test_results_run_09.xml
+2025-11-20 13:18:50,224 - INFO - Parsed 120 test results from sample_data/test_results_run_10.xml
+2025-11-20 13:18:50,226 - INFO - Parsed 120 test results from sample_data/test_results_run_11.xml
+2025-11-20 13:18:50,230 - INFO - Parsed 120 test results from sample_data/test_results_run_12.xml
+2025-11-20 13:18:50,232 - INFO - Parsed 120 test results from sample_data/test_results_run_13.xml
+2025-11-20 13:18:50,234 - INFO - Parsed 120 test results from sample_data/test_results_run_14.xml
+2025-11-20 13:18:50,237 - INFO - Parsed 120 test results from sample_data/test_results_run_15.xml
+2025-11-20 13:18:50,239 - INFO - Parsed 120 test results from sample_data/test_results_run_16.xml
+2025-11-20 13:18:50,241 - INFO - Parsed 120 test results from sample_data/test_results_run_17.xml
+2025-11-20 13:18:50,243 - INFO - Parsed 120 test results from sample_data/test_results_run_18.xml
+2025-11-20 13:18:50,245 - INFO - Parsed 120 test results from sample_data/test_results_run_19.xml
+2025-11-20 13:18:50,248 - INFO - Parsed 120 test results from sample_data/test_results_run_20.xml
+2025-11-20 13:18:50,249 - INFO - Processed 120 unique tests
+2025-11-20 13:18:50,249 - INFO - Analyzing test patterns...
+2025-11-20 13:18:50,258 - INFO - Pattern analysis complete
+2025-11-20 13:18:50,259 - INFO - Generating reports...
+2025-11-20 13:18:50,263 - INFO - CSV report generated: output/pattern_report.csv
+2025-11-20 13:18:50,269 - INFO - JSON report generated: output/insights.json
+2025-11-20 13:18:50,271 - INFO - HTML dashboard generated: output/dashboard.html
+2025-11-20 13:18:50,272 - INFO - Test pattern detection completed successfully
+2025-11-20 13:19:47,822 - INFO - Test Pattern Detector initialized
+2025-11-20 13:19:47,823 - INFO - Processing 20 test result file(s)...
+2025-11-20 13:19:47,825 - INFO - Parsed 120 test results from sample_data/test_results_run_01.xml
+2025-11-20 13:19:47,827 - INFO - Parsed 120 test results from sample_data/test_results_run_02.xml
+2025-11-20 13:19:47,829 - INFO - Parsed 120 test results from sample_data/test_results_run_03.xml
+2025-11-20 13:19:47,831 - INFO - Parsed 120 test results from sample_data/test_results_run_04.xml
+2025-11-20 13:19:47,832 - INFO - Parsed 120 test results from sample_data/test_results_run_05.xml
+2025-11-20 13:19:47,834 - INFO - Parsed 120 test results from sample_data/test_results_run_06.xml
+2025-11-20 13:19:47,836 - INFO - Parsed 120 test results from sample_data/test_results_run_07.xml
+2025-11-20 13:19:47,838 - INFO - Parsed 120 test results from sample_data/test_results_run_08.xml
+2025-11-20 13:19:47,840 - INFO - Parsed 120 test results from sample_data/test_results_run_09.xml
+2025-11-20 13:19:47,842 - INFO - Parsed 120 test results from sample_data/test_results_run_10.xml
+2025-11-20 13:19:47,843 - INFO - Parsed 120 test results from sample_data/test_results_run_11.xml
+2025-11-20 13:19:47,845 - INFO - Parsed 120 test results from sample_data/test_results_run_12.xml
+2025-11-20 13:19:47,848 - INFO - Parsed 120 test results from sample_data/test_results_run_13.xml
+2025-11-20 13:19:47,850 - INFO - Parsed 120 test results from sample_data/test_results_run_14.xml
+2025-11-20 13:19:47,852 - INFO - Parsed 120 test results from sample_data/test_results_run_15.xml
+2025-11-20 13:19:47,854 - INFO - Parsed 120 test results from sample_data/test_results_run_16.xml
+2025-11-20 13:19:47,856 - INFO - Parsed 120 test results from sample_data/test_results_run_17.xml
+2025-11-20 13:19:47,858 - INFO - Parsed 120 test results from sample_data/test_results_run_18.xml
+2025-11-20 13:19:47,860 - INFO - Parsed 120 test results from sample_data/test_results_run_19.xml
+2025-11-20 13:19:47,862 - INFO - Parsed 120 test results from sample_data/test_results_run_20.xml
+2025-11-20 13:19:47,863 - INFO - Processed 120 unique tests
+2025-11-20 13:19:47,863 - INFO - Analyzing test patterns...
+2025-11-20 13:19:47,873 - INFO - Pattern analysis complete
+2025-11-20 13:19:47,873 - INFO - Generating enhanced reports...
+2025-11-20 13:19:47,876 - INFO - CSV report generated: output/pattern_report.csv
+2025-11-20 13:19:47,881 - INFO - JSON report generated: output/insights.json
+2025-11-20 13:19:47,884 - INFO - Enhanced HTML dashboard generated: output/dashboard.html
+2025-11-20 13:19:47,884 - INFO - Test pattern detection completed successfully
